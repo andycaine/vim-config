@@ -71,3 +71,5 @@ inoremap <C-s> <Esc>:w<CR>a
 nnoremap <space> za
 
 nnoremap <leader>nt :NERDTreeToggle<CR>
+
+nnoremap <leader>a :Ack
